@@ -1,4 +1,9 @@
-# Learning Platform — Monorepo Navigation & Technical Milestones
+# Learning Platform — Monorepo Navigation & Technical Milestones - TEAM 3
+
+* Ecem Nur Özen
+* Gizem Gürtürk
+* Karya Kinyas
+* Betül Doğan
 
 > A modular learning platform ecosystem consisting of a centralized backend API, a Flutter mobile client, and a React-based admin dashboard.
 

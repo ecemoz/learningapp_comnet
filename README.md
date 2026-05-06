@@ -228,3 +228,8 @@ This ecosystem is designed as a scalable multi-platform learning infrastructure 
 * JWT-secured communication
 
 The goal is to evolve the platform into a production-ready, scalable, and modular learning ecosystem with strong architectural separation and future AI integration support.
+
+
+https://github.com/user-attachments/assets/bc597d67-c3f8-4f92-93b3-12f2f2fe5f94
+
+

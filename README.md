@@ -10,6 +10,8 @@
 
 This repository acts as the main technical entry point for the entire ecosystem and provides architectural documentation, repository references, development milestones, infrastructure notes, and system-level overview documentation.
 
+video linki: https://stdyildizedu-my.sharepoint.com/:v:/g/personal/ecem_ozen_std_yildiz_edu_tr/IQAUG6eTGkmGQqhIUs9_6AmpAaHrkoXqNW7RGU7BEnILX_w?e=rYRIxc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ---
 
 # Project Ecosystem

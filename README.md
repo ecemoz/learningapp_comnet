@@ -199,7 +199,7 @@ src/
 * Health-check integrations on the API (`/health`) to monitor live status.
 
 ---
-
+.
 # Summary
 
 This ecosystem represents a scalable multi-platform learning infrastructure combining an **ASP.NET Core** backend, a **Flutter** mobile client, and a **React** administration portal, using **PostgreSQL** as a single source of truth. Structured around modular design principles, the project ensures clean separation of concerns, strict type-safety, and prepares the platform for future feature enhancements (such as AI-driven insights).

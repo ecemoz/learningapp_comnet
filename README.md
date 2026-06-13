@@ -57,7 +57,7 @@ The architecture follows a service-oriented separation of concerns:
 
 ## Repository
 ```text
-github.com/ecemoz/LearningApp_backend
+github.com/ecemoz/LearningApp_backend 
 ```
 
 ## Technology Stack
